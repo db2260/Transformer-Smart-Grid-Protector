@@ -1,0 +1,2 @@
+../Core/Src/gps.c:14:6:SIM_EnableGPS	8	static
+../Core/Src/gps.c:19:12:SIM_GetGPS	16	static

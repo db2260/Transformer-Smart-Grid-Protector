@@ -1,0 +1,9 @@
+../Core/Src/adc.c:14:7:ADC_OilTemperature	16	static
+../Core/Src/adc.c:26:6:ADC_CalibrateOffset	80	static
+../Core/Src/adc.c:53:6:UpdateOffset	32	static
+../Core/Src/adc.c:59:6:AccumulateSample	32	static
+../Core/Src/adc.c:69:7:ComputeRMS_Counts	32	static
+../Core/Src/adc.c:81:6:ADC_PublishResults	32	static
+../Core/Src/adc.c:99:6:ADC_SamplingTask	32	static
+../Core/Src/adc.c:124:6:ADC_GetResults	24	static
+../Core/Src/adc.c:138:6:ADC_PowerMonitor_Init	40	static
