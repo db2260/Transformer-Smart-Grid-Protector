@@ -1,5 +1,0 @@
-../Core/Src/mqtt.c:14:19:_ConfigureTLS	1
-../Core/Src/mqtt.c:50:12:MQTT_Connect	2
-../Core/Src/mqtt.c:79:12:MQTT_Publish	1
-../Core/Src/mqtt.c:108:12:MQTT_Subscribe	1
-../Core/Src/mqtt.c:118:6:MQTT_Disconnect	1

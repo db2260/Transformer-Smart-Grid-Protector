@@ -1,9 +1,0 @@
-../Core/Src/sim7600g.c:14:6:SIM_Provision	2
-../Core/Src/sim7600g.c:53:12:SIM_ReadLine	6
-../Core/Src/sim7600g.c:105:6:SIM_Init	1
-../Core/Src/sim7600g.c:116:6:SIM_GetSignal	5
-../Core/Src/sim7600g.c:140:12:SIM_4GLTENetwork	6
-../Core/Src/sim7600g.c:186:6:SIM_Tx	1
-../Core/Src/sim7600g.c:194:12:SIM_Wait	5
-../Core/Src/sim7600g.c:216:12:SIM_CheckIP	12
-../Core/Src/sim7600g.c:267:13:SIM_GetIP	1
