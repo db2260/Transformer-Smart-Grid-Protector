@@ -1,0 +1,9 @@
+../Core/Src/adc.c:14:7:ADC_OilTemperature	1
+../Core/Src/adc.c:26:6:ADC_CalibrateOffset	4
+../Core/Src/adc.c:53:6:UpdateOffset	1
+../Core/Src/adc.c:59:6:AccumulateSample	1
+../Core/Src/adc.c:69:7:ComputeRMS_Counts	2
+../Core/Src/adc.c:81:6:ADC_PublishResults	3
+../Core/Src/adc.c:99:6:ADC_SamplingTask	4
+../Core/Src/adc.c:124:6:ADC_GetResults	4
+../Core/Src/adc.c:138:6:ADC_PowerMonitor_Init	1
